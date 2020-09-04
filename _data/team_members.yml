@@ -109,3 +109,12 @@
   education1: Machine Learning
   education2: Computer Vision
   
+- name: Eric Hedlin
+  photo: eric.jpg
+  info: Masters Student
+  email: iamerich@cs.ubc.ca
+  webpage: https://github.com/ehedlin
+  number_educ: 
+  education1: Deep learning
+  education2: Optimization through GD
+  
